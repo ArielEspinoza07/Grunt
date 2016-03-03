@@ -1,0 +1,29 @@
+{
+  "name": "(grunt-primerospasos)",
+  "version": "1.0.0",
+  "description": "Descripcion de mi primer proyecto den GruntJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielEspinoza07/Grunt.git"
+  },
+  "keywords": [
+    "gruntjs"
+  ],
+  "author": "ArielEspinoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArielEspinoza07/Grunt/issues"
+  },
+  "homepage": "https://github.com/ArielEspinoza07/Grunt#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^1.0.0",
+    "grunt-contrib-jade": "^0.15.0",
+    "grunt-contrib-stylus": "^1.0.0",
+    "grunt-contrib-uglify": "^0.11.1"
+  }
+}
